@@ -50,6 +50,8 @@ Project Overview
 
 This project involved building a cost estimation model in Excel to assess the monthly operating costs of an online AI-assisted writing tool designed for Year 6–8 students in New Zealand. The model combines user behavior assumptions with AI pricing metrics to estimate total costs at scale.
 
+
+
 Key Assumptions
 
 Total students: 120,000 (40,000 per year group)
@@ -100,3 +102,27 @@ Cost modeling & assumptions design
 Usage-based forecasting
 
 Translating technical pricing into business insights
+
+# Cost Estimation Model – AI Writing Tool (Years 6–8)
+
+## Overview
+This project builds a cost estimation model to forecast the monthly operational cost of an AI-powered online writing tool for Year 6–8 students in New Zealand.
+
+## Key Assumptions
+- 120,000 students across Years 6–8
+- 80% active user rate
+- 10 sessions per student per month
+- Usage complexity increases by year level
+
+## Cost Components
+- AI input token costs
+- AI output token costs
+- NLP syntax analysis (character-based pricing)
+
+## Key Result
+- **Estimated total monthly cost: $345.60**
+
+## Skills Demonstrated
+- Cost modeling & forecasting
+- Usage-based pricing analysis
+- Excel financial modeling
